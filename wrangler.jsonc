@@ -13,6 +13,14 @@
 	"upload_source_maps": true,
 	"compatibility_flags": [
 		"nodejs_compat"
+	],
+	"d1_databases": [
+		{
+			"binding": "prod_d1_tutorial",
+			"database_name": "prod-d1-tutorial",
+			"database_id": "47d73973-d54e-4755-a43b-ba49c5807ba3",
+			"remote": true
+		}
 	]
 	/**
 	 * Smart Placement
